@@ -1,0 +1,12 @@
+true: linkpkg
+true: package(iso-filesystem)
+true: package(lwt)
+true: package(io-page.unix)
+true: package(io-page)
+true: package(mirage-block-unix)
+true: package(astring)
+true: package(cohttp)
+true: package(sexplib)
+true: package(cstruct.lwt)
+true: package(cohttp.lwt)
+true: package(cmdliner)
